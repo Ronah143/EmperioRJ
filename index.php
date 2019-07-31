@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <title>HTML Tutorial</title>
 <body>
-
 <article>
   <header>
     <h1>Ronah Jay Q. Emperio</h1>
