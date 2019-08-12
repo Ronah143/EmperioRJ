@@ -15,10 +15,10 @@
 
 
 
-<p align="right"><font size= "5"><a href="file:///C:/Users/EL-EL/Desktop/Jay%20Jay's%20Files/HTML/New/Photo%203.html">Next</a></font></p>
+<p align="right"><font size= "5"><a href="">Next</a></font></p>
 
 
- <p align="left"><font size= "5"><right><a href="file:///C:/Users/EL-EL/Desktop/Jay%20Jay's%20Files/HTML/New/Home.html">Go Back to Home</a></right></font></p>
+ <p align="left"><font size= "5"><right><a href="https://emperioronahjay-photogallery.herokuapp.com/">Go Back to Home</a></right></font></p>
 
 </body>
 </html>
