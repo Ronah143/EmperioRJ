@@ -17,12 +17,10 @@
 <h2><center><font size="10">List of Photos</font></center></h2>
 
 <nav><center><font size= "5">
-<a href="https://emperioronahjay-photogallery.herokuapp.com/">Photo 1</a>|
-<a href="https://emperioronahjay-photogallery.herokuapp.com/">Photo 2</a>|
-<a href="https://emperioronahjay-photogallery.herokuapp.com/">Photo 3</a>|
+<h3><a href="photo 1.php">Photo 1</a><br></h3>|
+<h3><a href="photo 2.php">Photo 2</a><br></h3>|
+<h3><a href="photo 3.php">Photo 3</a><br></h3>|
 </nav></center></font>
-
-<h3><a href="image1.php">IMAGE 1 </a><br></h3>
 
 </body>
 </html>
