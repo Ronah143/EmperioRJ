@@ -11,7 +11,7 @@
     <h1><center><font size= "15">Emperio, RJ's Photo Gallery</font></center></h1>
   </header>
 
-<center><img src="C:\Users\EL-EL\Desktop\Jay Jay's Files\HTML\New\received_649027288882924.jpeg" width="500" height="600"></center>
+<center><img src="received_649027288882924.jpeg" width="500" height="600"></center>
 
 
 

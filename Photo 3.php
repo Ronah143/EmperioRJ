@@ -11,7 +11,7 @@
     <h1><center><font size= "15">Emperio, RJ's Photo Gallery</font></center></h1>
   </header>
 
-<center><img src="C:\Users\EL-EL\Desktop\Jay Jay's Files\HTML\New\photo 2.2.jpg" width="500" height="600"></center>
+<center><img src="photo 2.2.jpg" width="500" height="600"></center>
 
 <div>
  <p align="right"><font size= "5"><a href="file:///C:/Users/EL-EL/Desktop/Jay%20Jay's%20Files/HTML/New/photo%202.html">Previous</a></right></font>
