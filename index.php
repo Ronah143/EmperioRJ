@@ -19,7 +19,7 @@
 <nav><center><font size= "5">
 <h3><a href="photo 1.php">Photo 1</a><br></h3>
 <h3><a href="photo 2.php">Photo 2</a><br></h3>
-<h3><a href="photo 3.php">Photo 3</a><br></h3>
+<h3><a href="Photo 3.php">Photo 3</a><br></h3>
 </nav></center></font>
 
 </body>

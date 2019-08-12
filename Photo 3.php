@@ -14,7 +14,8 @@
 <center><img src="photo 2.2.jpg" width="500" height="600"></center>
 
 
- <p align="right"><font size= "5"><a href="https://emperioronahjay-photogallery.herokuapp.com/photo%202.php">Previous</a></right></font></p>
+ <p align="right"><font size= "5"><a href="https://emperioronahjay-photogallery.herokuapp.com/photo%202.php">Previous</a></right></font>
+</p>
 
  <p align="left"><font size= "5"><a href="https://emperioronahjay-photogallery.herokuapp.com/">Go Back to Home</a></font></p>
 
