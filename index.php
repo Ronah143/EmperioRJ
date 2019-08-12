@@ -17,9 +17,9 @@
 <h2><center><font size="10">List of Photos</font></center></h2>
 
 <nav><center><font size= "5">
-<a href="https://github.com/Ronah143/EmperioRJ/blob/master/photo%201.php">Photo 1</a>|
-<a href="https://github.com/Ronah143/EmperioRJ/blob/master/photo%202.php">Photo 2</a>|
-<a href="https://github.com/Ronah143/EmperioRJ/blob/master/Photo%203.php">Photo 3</a>|
+<a href="https://emperioronahjay-photogallery.herokuapp.com/">Photo 1</a>|
+<a href="https://emperioronahjay-photogallery.herokuapp.com/">Photo 2</a>|
+<a href="https://emperioronahjay-photogallery.herokuapp.com/">Photo 3</a>|
 </nav></center></font>
 
 <h3><a href="image1.php">IMAGE 1 </a><br></h3>
