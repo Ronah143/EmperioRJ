@@ -8,7 +8,7 @@
 
   <header>
 
-    <h1><center><font size= "15">EmperioR Login</font></center></h1>
+    <h1><center><font size= "15">Log-in</font></center></h1>
 
   </header>
 
@@ -36,10 +36,10 @@
 
 
 
-<div><center>
-<button type="submit" class="button button-block"/><a href="Proceed.php">Sign In</a></button>
+<nav><center><font size="5">
+<h3><a href="Proceed.php">Sign In</a><br></h3>
 
-</div></center>
+</nav></center></font>
 
 <div><center>
 <button type="submit" class="button-block"/><a href="Reset Password.php">Reset Password</a>
