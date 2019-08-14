@@ -39,12 +39,12 @@
 <div><center>
 <button type="submit" class="button button-block"/><a href="Proceed.php">Sign In</a></button>
 
-          </form>
+</div></center>
 
 <div><center>
 <button type="submit" class="button-block"/><a href="Reset Password.php">Reset Password</a>
 
-
+</div></center>
 <div><center>
 <button type="submit" class="button-block"/><a href="Sign-Up.php">Sign Up</a>
         </div></center>
