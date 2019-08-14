@@ -39,7 +39,7 @@
           </form>
 
 <div><center>
-<button type="Reset" class="button-block"/><a href="Log In.html">Reset Password</a></button>
+<button type="Reset" class="button-block"/><a href="Log In.php">Reset Password</a></button>
         </div></center>
 
 </body>

@@ -37,16 +37,16 @@
 
 
 <div><center>
-<button type="submit" class="button button-block"/><a href="Proceed.html">Sign In</a></button>
+<button type="submit" class="button button-block"/><a href="Proceed.php">Sign In</a></button>
 
           </form>
 
 <div><center>
-<button type="submit" class="button-block"/><a href="Reset Password.html">Reset Password</a>
+<button type="submit" class="button-block"/><a href="Reset Password.php">Reset Password</a>
 
 
 <div><center>
-<button type="submit" class="button-block"/><a href="Sign-Up.html">Sign Up</a>
+<button type="submit" class="button-block"/><a href="Sign-Up.php">Sign Up</a>
         </div></center>
 
 </body>
