@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+
+<body bgcolor="#FA8072">
+
+
+
+  <header>
+
+    <h1><center><font size= "15">EmperioR Login</font></center></h1>
+
+  </header>
+
+
+
+  <div><center>
+
+    <label for="username"><font size= "5">Username:</font></label>
+
+    <input type="text" id="username" name="username">
+
+</div></center>
+
+
+
+<div><center>
+
+    <label for="pass"><font size="5">Password (8 characters minimum):</font></label>
+
+    <input type="password" id="pass" name="password"
+
+           minlength="8" required>
+
+</div></center>
+
+
+
+<div><center>
+<button type="submit" class="button button-block"/><a href="Proceed.html">Sign In</a></button>
+
+          </form>
+
+<div><center>
+<button type="submit" class="button-block"/><a href="Reset Password.html">Reset Password</a>
+
+
+<div><center>
+<button type="submit" class="button-block"/><a href="Sign-Up.html">Sign Up</a>
+        </div></center>
+
+</body>
+
+</html>
+
