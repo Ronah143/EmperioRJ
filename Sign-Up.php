@@ -55,10 +55,8 @@
           </div>
           
           <div><center>
-<button type="submit" class="button button-block"/>Sign In
-<h3><a href="https://emperioronahjay-photogallery.herokuapp.com/">Proceed to Gallery</a><br></h3></button>
-
-          </form>
+<button type="submit" class="button button-block"/>Sign In</button>
+<a href="https://emperioronahjay-photogallery.herokuapp.com/">Proceed to Gallery</a>
           
           </form>
         

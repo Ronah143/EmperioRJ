@@ -36,15 +36,15 @@
 
 
 
-<nav><center><font size="5">
-<h3><a href="Proceed.php">Sign In</a><br></h3>
+<div><center>
+<button type="submit" class="button-block"/><href="Proceed.php">Sign In</a></button>
 
-</nav></center></font>
+          </form>
 
 <div><center>
 <button type="submit" class="button-block"/><a href="Reset Password.php">Reset Password</a>
 
-</div></center>
+
 <div><center>
 <button type="submit" class="button-block"/><a href="Sign-Up.php">Sign Up</a>
         </div></center>
