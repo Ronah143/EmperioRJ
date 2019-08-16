@@ -7,7 +7,7 @@
 <center><font size="10"><p> WELCOME TO EMPERIO, RJ's PHOTO GALLERY</p></font></center>
 
 <nav><center><font size= "5">
-<h3><a href="https://emperioronahjay-photogallery.herokuapp.com/">Proceed to Gallery</a><br></h3>
+<a href="Home.php">Proceed to Gallery</a>
 </nav></center><font>
 
 </body>
